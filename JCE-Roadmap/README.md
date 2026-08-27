@@ -21,17 +21,17 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.2 Linux Filesystem
 
-* [ ] Understand `/`
-* [ ] Understand `/home`
-* [ ] Understand `/etc`
-* [ ] Understand `/var`
-* [ ] Understand `/tmp`
-* [ ] Understand `/opt`
-* [ ] Understand `/usr`
-* [ ] Understand `/bin`
-* [ ] Understand `/sbin`
-* [ ] Understand `/dev`
-* [ ] Understand `/proc`
+* [x] Understand `/`
+* [x] Understand `/home`
+* [x] Understand `/etc`
+* [x] Understand `/var`
+* [x] Understand `/tmp`
+* [x] Understand `/opt`
+* [x] Understand `/usr`
+* [x] Understand `/bin`
+* [x] Understand `/sbin`
+* [x] Understand `/dev`
+* [x] Understand `/proc`
 
 ### 1.3 File & Directory Management
 
