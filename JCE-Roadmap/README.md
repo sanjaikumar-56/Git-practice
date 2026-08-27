@@ -12,12 +12,12 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.1 Linux Fundamentals
 
-* [ ] Understand Linux and its purpose
-* [ ] Understand Linux kernel
-* [ ] Understand shell vs terminal
-* [ ] Learn Linux distributions
-* [ ] Understand Linux architecture
-* [ ] Install Ubuntu/Linux VM or use a cloud Linux instance
+* [x] Understand Linux and its purpose
+* [x] Understand Linux kernel
+* [x] Understand shell vs terminal
+* [x] Learn Linux distributions
+* [x] Understand Linux architecture
+* [x] Install Ubuntu/Linux VM or use a cloud Linux instance
 
 ### 1.2 Linux Filesystem
 
