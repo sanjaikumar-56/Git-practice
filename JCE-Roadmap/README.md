@@ -48,19 +48,19 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.4 Text Processing
 
-* [ ] `cat`
-* [ ] `less`
-* [ ] `head`
-* [ ] `tail`
-* [ ] `grep`
-* [ ] `cut`
-* [ ] `sort`
-* [ ] `uniq`
-* [ ] `wc`
-* [ ] `awk`
-* [ ] `sed`
-* [ ] Pipes `|`
-* [ ] Redirection `>`, `>>`, `<`
+* [x] `cat`
+* [x] `less`
+* [x] `head`
+* [x] `tail`
+* [x] `grep`
+* [x] `cut`
+* [x] `sort`
+* [x] `uniq`
+* [x] `wc`
+* [x] `awk`
+* [x] `sed`
+* [x] Pipes `|`
+* [x] Redirection `>`, `>>`, `<`
 
 ### 1.5 Users & Groups
 
