@@ -35,16 +35,16 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.3 File & Directory Management
 
-* [ ] `pwd`
-* [ ] `ls`
-* [ ] `cd`
-* [ ] `mkdir`
-* [ ] `touch`
-* [ ] `cp`
-* [ ] `mv`
-* [ ] `rm`
-* [ ] `find`
-* [ ] `locate`
+* [x] `pwd`
+* [x] `ls`
+* [x] `cd`
+* [x] `mkdir`
+* [x] `touch`
+* [x] `cp`
+* [x] `mv`
+* [x] `rm`
+* [x] `find`
+* [x] `locate`
 
 ### 1.4 Text Processing
 
