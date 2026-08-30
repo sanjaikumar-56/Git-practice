@@ -64,29 +64,29 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.5 Users & Groups
 
-* [ x] Understand users
-* [ x] Understand groups
-* [ ] `useradd`
-* [ ] `usermod`
-* [ ] `userdel`
-* [ ] `passwd`
-* [ ] `groupadd`
-* [ ] `/etc/passwd`
-* [ ] `/etc/shadow`
-* [ ] `/etc/group`
-* [ ] `sudo`
-* [ ] `/etc/sudoers`
+* [x] Understand users
+* [x] Understand groups
+* [x] `useradd`
+* [x] `usermod`
+* [x] `userdel`
+* [x] `passwd`
+* [x] `groupadd`
+* [x] `/etc/passwd`
+* [x] `/etc/shadow`
+* [x] `/etc/group`
+* [x] `sudo`
+* [x] `/etc/sudoers`
 
 ### 1.6 File Permissions
 
-* [ ] Read/write/execute
-* [ ] Owner/group/others
-* [ ] Numeric permissions
-* [ ] `chmod`
-* [ ] `chown`
-* [ ] `chgrp`
-* [ ] `umask`
-* [ ] Special permissions basics
+* [] Read/write/execute
+* [] Owner/group/others
+* [] Numeric permissions
+* [] `chmod`
+* [] `chown`
+* [] `chgrp`
+* [] `umask`
+* [] Special permissions basics
 
 ### 1.7 Processes
 
