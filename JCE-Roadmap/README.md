@@ -79,14 +79,14 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.6 File Permissions
 
-* [] Read/write/execute
-* [] Owner/group/others
-* [] Numeric permissions
-* [] `chmod`
-* [] `chown`
-* [] `chgrp`
-* [] `umask`
-* [] Special permissions basics
+* [x] Read/write/execute
+* [x] Owner/group/others
+* [x] Numeric permissions
+* [x] `chmod`
+* [x] `chown`
+* [x] `chgrp`
+* [x] `umask`
+* [x] Special permissions basics
 
 ### 1.7 Processes
 
