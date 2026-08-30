@@ -64,8 +64,8 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.5 Users & Groups
 
-* [ ] Understand users
-* [ ] Understand groups
+* [ x] Understand users
+* [ x] Understand groups
 * [ ] `useradd`
 * [ ] `usermod`
 * [ ] `userdel`
