@@ -90,32 +90,32 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.7 Processes
 
-* [] Understand process
-* [] PID
-* [] PPID
-* [] Foreground/background
-* [] `ps`
-* [] `top`
-* [] `htop`
-* [] `kill`
-* [] `pkill`
-* [] `jobs`
-* [] `bg`
-* [] `fg`
-* [] Zombie process
-* [] Orphan process
+* [x] Understand process
+* [x] PID
+* [x] PPID
+* [x] Foreground/background
+* [x] `ps`
+* [x] `top`
+* [x] `htop`
+* [x] `kill`
+* [x] `pkill`
+* [x] `jobs`
+* [x] `bg`
+* [x] `fg`
+* [x] Zombie process
+* [x] Orphan process
 
 ### 1.8 Services
 
-* [] Understand services
-* [] Understand systemd
-* [] `systemctl`
-* [] Start service
-* [] Stop service
-* [] Restart service
-* [] Enable service
-* [] Disable service
-* [] Check service status
+* [x] Understand services
+* [x] Understand systemd
+* [x] `systemctl`
+* [x] Start service
+* [x] Stop service
+* [x] Restart service
+* [x] Enable service
+* [x] Disable service
+* [x] Check service status
 
 ### 1.9 Logs
 
