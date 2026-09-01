@@ -119,13 +119,13 @@ Don't mark a topic complete just because you watched a video. Mark it complete w
 
 ### 1.9 Logs
 
-* [] `/var/log`
-* [] System logs
-* [] Authentication logs
-* [] Application logs
-* [] `journalctl`
-* [] `tail -f`
-* [] Log troubleshooting
+* [x] `/var/log`
+* [x] System logs
+* [x] Authentication logs
+* [x] Application logs
+* [x] `journalctl`
+* [x] `tail -f`
+* [x] Log troubleshooting
 
 ### 1.10 Storage
 
